@@ -1,0 +1,7 @@
+403 Forbidden
+
+502 Bad Gateway
+
+301 Moved Permanently
+
+200 OK
